@@ -1,2 +1,11 @@
-# FoundryVTT-Module-Template
-A template to get started with Module development, including CI/CD
+![](https://img.shields.io/badge/Foundry-v0.6.2-informational)
+[![](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%243-orange)](https://www.buymeacoffee.com/T2tZvWJ)
+
+
+# FoundryVTT Module
+
+Does something, probably
+
+
+## Changelog
+
